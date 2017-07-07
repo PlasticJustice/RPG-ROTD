@@ -1,0 +1,4 @@
+/* <Version: VERSION>
+* /js/plugins/FILENAME DIRECTLINK
+* <End of Version>
+*/
